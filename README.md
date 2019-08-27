@@ -19,7 +19,6 @@ This demo uses:
 * ReactJS
 
 ## Running the demo locally
-* Download the repository [here](https://github.com/samie820/react-cometchat-app.git) or by running `git clone https://github.com/samie820/react-cometchat-app.git`
 * Run the command `npm install or yarn`
 * Add your `appId`, `GUID` and `apiKey` to `/src/config.js` like below:
 ```javascript
@@ -30,9 +29,3 @@ export default {
 };
 ```
 * Then run `npm start or yarn start`
-
-## Useful links
-
-* 📚Tutorial showing how we built this ample - Coming soon
-* [CometChat homepage](https://www.cometchat.com)
-* [CometChat JS SDK documentation](https://prodocs.cometchat.com/docs/js-quick-start)
